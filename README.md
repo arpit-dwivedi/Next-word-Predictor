@@ -1,2 +1,2 @@
-# jhi
+# Next Word Predictor
 qwerty
